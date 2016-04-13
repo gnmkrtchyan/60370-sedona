@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Георгий Мкртчян](https://up.htmlacademy.ru/htmlcss/13/user/60370).
-* Наставник: [Sergey Dartess Kozlov].
+* Наставник: [Sergey Kozlov].
 
 ---
 
