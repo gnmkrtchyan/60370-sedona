@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>HTML Academy: Седона</title>
+    <link href="css/style.css" rel="stylesheet">
   </head>
   <body>
     <!-- Header -->
@@ -16,7 +17,7 @@
               <a href="#">Фото и видео</a>
             </li>
             <li>
-              <a href="#"><img src="#" alt="Главная"></a>
+              <a href="#"><img src="img/logo.png" width="137" height="68" alt="Главная"></a>
             </li>
             <li>
               <a href="#">Карта штата</a>
@@ -30,16 +31,8 @@
     </header>
     <!-- Main Page -->
     <main>
-      <div class="poster"> <!-- Так что с этим блоком делать????????? -->
-        <div class="welcome">
-          <!-- What shoul I write here??? -->
-        </div>
-        <div class="sedona">
-          <!-- What shoul I write here??? -->
-        </div>
-        <div class="quotation">
-          <!-- What shoul I write here??? -->
-        </div>
+      <div class="poster">
+        <img src="img/background-image.jpg" height="508px" width="1200" alt="ibackground-image"> 
       </div>
       
       <div class="intro">
@@ -56,23 +49,23 @@
           <p class="section-first-text">Седона - не аттракцион для туристов, <br/>там течет своя жизнь</p>
         </div>
         <div class="image-section-first">
-          <img src="#" width="400" height="125" alt="sedona-img-first">
+          <img src="img/info-one.jpg" width="800" height="257" alt="info-one">
         </div>
       </div>
       
       <div class="facilities">
         <div class="facilities-section">
-          <img src="#" width="75" height="75" class="icon" alt="accomodation">
+          <img src="img/logo-accomodation.png" width="75" height="72" class="icon" alt="accomodation">
           <h4 class="facilities-title">Жилье</span>
           <p class="facilities-description">Рекомендуем пожить в настоящем мотеле, все как в кино!</p>
         </div>
         <div class="facilities-section">
-          <img src="#" width="75" height="75" class="icon" alt="meal">
+          <img src="img/logo-meal.png" width="75" height="72" class="icon" alt="meal">
           <h4 class="facilities-title">Еда</span>
           <p class="facilities-description">Всегда заказывайте фирменный бургер, вы не разочаруетесь!</p>
         </div>
         <div class="facilities-section">
-          <img src="#" width="75" height="75" class="icon" alt="souvenir">
+          <img src="img/logo-souvenir.png" width="75" height="72" class="icon" alt="souvenir">
           <h4 class="facilities-title">Сувениры</span>
           <p class="facilities-description">Не только китайского, но и местного производства!</p>
         </div>
@@ -85,7 +78,7 @@
           <p class="section-second-text">Да, по нему можно пройти если конечно вы осмелитесь</p>
         </div>
         <div class="image-section-second">
-          <img src="#" width="400" height="125" alt="sedona-img-second">
+          <img src="img/info-two.jpg" width="800" height="256" alt="sedona-img-second">
         </div>
       </div>
       
@@ -119,7 +112,7 @@
       
       <form  class="book-form" action="/echo" method="post">
         <label for="begin-date date">
-          Дата выезда:
+          Дата заезда:
           <input type="text" name="begin-date" id="begin-date">
         </label>
 				<label for="end-date date">
