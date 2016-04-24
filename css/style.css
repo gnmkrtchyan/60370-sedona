@@ -1,1 +1,196 @@
+<--! шрифты -->
+.navigation a {
+  font-size: 14px;
+  line-height: 26px;
+  color: #000000;
+  font-weight: normal;
+  font-family: "PTSans Bold";
+  
+  text-transform: uppercase;
+}
 
+.intro h2 {
+  font-size: 21px;
+  line-height: 26px;
+  color: #000000;
+  font-weight: normal;
+  font-family: "PTSans Bold";
+  
+  text-transform: uppercase;
+}
+
+.intro p {
+  font-size: 14px;
+  line-height: 26px;
+  color: #333333;
+  font-weight: normal;
+  font-family: "PTSans Bold";
+  
+  text-transform: uppercase;
+}
+
+.section-first-title {
+  font-size: 21px;
+  line-height: 21px;
+  color: #ffffff;
+  font-weight: normal;
+  font-family: "PTSans Bold";
+  
+  text-transform: uppercase;
+}
+
+.feature-number-first {
+  font-size: 14px;
+  line-height: 21px;
+  color: #ffffff;
+  font-weight: normal;
+  font-family: "PTSans Regular";
+}
+
+.section-first-text {
+  font-size: 14px;
+  line-height: 21px;
+  color: #ffffff;
+  font-weight: normal;
+  font-family: "PTSans Regular";
+  
+  text-transform: uppercase;
+}
+
+.facilities-title {
+  font-size: 21px;
+  line-height: 21px;
+  color: #000000;
+  font-weight: normal;
+  font-family: "PTSans Bold";
+  
+  text-transform: uppercase;
+}
+
+.facilities-description {
+  font-size: 14px;
+  line-height: 21px;
+  color: #333333;
+  font-weight: normal;
+  font-family: "PTSans Regular";
+  
+  text-transform: uppercase;
+}
+
+.section-second-title {
+  font-size: 21px;
+  line-height: 21px;
+  color: #ffffff;
+  font-weight: normal;
+  font-family: "PTSans Bold";
+  
+  text-transform: uppercase;
+}
+
+.feature-number-second {
+  font-size: 14px;
+  line-height: 21px;
+  color: #ffffff;
+  font-weight: normal;
+  font-family: "PTSans Regular";
+}
+
+.section-second-text {
+  font-size: 14px;
+  line-height: 21px;
+  color: #ffffff;
+  font-weight: normal;
+  font-family: "PTSans Regular";
+  
+  text-transform: uppercase;
+}
+
+.fact-title {
+  font-size: 21px;
+  line-height: 21px;
+  color: #000000;
+  font-weight: normal;
+  font-family: "PTSans Bold";
+  
+  text-transform: uppercase;
+}
+
+.feature-number {
+  font-size: 14px;
+  line-height: 21px;
+  color: #333333;
+  font-weight: normal;
+  font-family: "PTSans Regular";
+}
+
+.fact-description {
+  font-size: 14px;
+  line-height: 21px;
+  color: #333333;
+  font-weight: normal;
+  font-family: "PTSans Regular";
+  
+  text-transform: uppercase;
+}
+
+.interest {
+  font-size: 30px;
+  line-height: 24px;
+  color: #000000;
+  font-weight: normal;
+  font-family: "PTSans Bold";
+  
+  text-transform: uppercase;
+}
+
+.user-connection p {
+  font-size: 14px;
+  line-height: 24px;
+  color: #333333;
+  font-weight: normal;
+  font-family: "PTSans Regular";
+  
+  text-transform: uppercase;
+}
+
+.hotel-search {
+  font-size: 21px;
+  line-height: 26px;
+  color: #ffffff;
+  font-weight: normal;
+  font-family: "PTSans Bold";
+  
+  text-transform: uppercase;
+}
+
+.date,
+.person {
+  font-size: 14px;
+  line-height: 26px;
+  color: #000000;
+  font-weight: normal;
+  font-family: "PTSans Bold";
+  
+  text-transform: uppercase;
+}
+
+.submit-btn {
+  font-size: 21px;
+  line-height: 26px;
+  color: #ffffff;
+  font-weight: normal;
+  font-family: "PTSans Bold";
+  
+  text-transform: uppercase;
+}
+
+.copyrights {
+  font-size: 21px;
+  line-height: 26px;
+  color: #ffffff;
+  font-weight: normal;
+  font-family: "PTSans Regular";
+  
+  text-transform: uppercase;
+  
+}
